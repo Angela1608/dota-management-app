@@ -1,0 +1,127 @@
+name,primary_attribute,base_mana,base_health,ultimate_ability
+Anti-Mage,AGILITY,75,200,Mana Void
+Axe,STRENGTH,75,200,Culling Blade
+Bane,UNIVERSAL,75,200,Fiend's Grip
+Bloodseeker,AGILITY,75,200,Rupture
+Crystal Maiden,INTELLIGENCE,75,200,Freezing Field
+Drow Ranger,AGILITY,75,200,Marksmanship
+Earthshaker,STRENGTH,75,200,Echo Slam
+Juggernaut,AGILITY,75,200,Omnislash
+Mirana,AGILITY,75,200,Moonlight Shadow
+Morphling,AGILITY,75,200,Adaptive Strike
+Shadow Fiend,AGILITY,75,200,Requiem of Souls
+Phantom Lancer,AGILITY,75,200,Juxtapose
+Puck,INTELLIGENCE,75,200,Dream Coil
+Pudge,STRENGTH,75,200,Dismember
+Razor,AGILITY,75,200,Eye of the Storm
+Sand King,UNIVERSAL,75,200,Epicenter
+Storm Spirit,INTELLIGENCE,75,200,Ball Lightning
+Sven,STRENGTH,75,200,God's Strength
+Tiny,STRENGTH,75,200,Tree Grab
+Vengeful Spirit,AGILITY,75,200,Nether Swap
+Windranger,UNIVERSAL,75,200,Focus Fire
+Zeus,INTELLIGENCE,75,200,Thundergod's Wrath
+Kunkka,STRENGTH,75,200,Ghostship
+Lina,INTELLIGENCE,75,200,Laguna Blade
+Lion,INTELLIGENCE,75,200,Finger of Death
+Shadow Shaman,INTELLIGENCE,75,200,Mass Serpent Ward
+Slardar,STRENGTH,75,200,Corrosive Haze
+Tidehunter,STRENGTH,75,200,Ravage
+Witch Doctor,INTELLIGENCE,75,200,Death Ward
+Lich,INTELLIGENCE,75,200,Chain Frost
+Riki,AGILITY,75,200,Cloak and Dagger
+Enigma,UNIVERSAL,75,200,Black Hole
+Tinker,INTELLIGENCE,75,200,Heat-Seeking Missile
+Sniper,AGILITY,75,200,Assassinate
+Necrophos,INTELLIGENCE,75,200,Reaper's Scythe
+Warlock,INTELLIGENCE,75,200,Chaotic Offering
+Beastmaster,UNIVERSAL,75,200,Primal Roar
+Queen of Pain,INTELLIGENCE,75,200,Sonic Wave
+Venomancer,UNIVERSAL,75,200,Poison Nova
+Faceless Void,AGILITY,75,200,Chronosphere
+Wraith King,STRENGTH,75,200,Reincarnation
+Death Prophet,UNIVERSAL,75,200,Exorcism
+Phantom Assassin,AGILITY,75,200,Coup de Grace
+Pugna,INTELLIGENCE,75,200,Life Drain
+Templar Assassin,AGILITY,75,200,Psionic Trap
+Viper,AGILITY,75,200,Viper Strike
+Luna,AGILITY,75,200,Eclipse
+Dragon Knight,STRENGTH,75,200,Elder Dragon Form
+Dazzle,UNIVERSAL,75,200,Bad Juju
+Clockwerk,STRENGTH,75,200,Hookshot
+Leshrac,INTELLIGENCE,75,200,Pulse Nova
+Nature's Prophet,UNIVERSAL,75,200,Wrath of Nature
+Lifestealer,STRENGTH,75,200,Infest
+Dark Seer,INTELLIGENCE,75,200,Wall of Replica
+Clinkz,AGILITY,75,200,Burning Barrage
+Omniknight,STRENGTH,75,200,Guardian Angel
+Enchantress,INTELLIGENCE,75,200,Impetus
+Huskar,STRENGTH,75,200,Life Break
+Night Stalker,STRENGTH,75,200,Dark Ascension
+Broodmother,AGILITY,75,200,Spawn Spiderlings
+Bounty Hunter,AGILITY,75,200,Track
+Weaver,AGILITY,75,200,Time Lapse
+Jakiro,INTELLIGENCE,75,200,Macropyre
+Batrider,UNIVERSAL,75,200,Flaming Lasso
+Chen,INTELLIGENCE,75,200,Hand of God
+Spectre,UNIVERSAL,75,200,Haunt
+Ancient Apparition,INTELLIGENCE,75,200,Cold Feet
+Doom,STRENGTH,75,200,Doom
+Ursa,AGILITY,75,200,Enrage
+Spirit Breaker,STRENGTH,75,200,Nether Strike
+Gyrocopter,AGILITY,75,200,Call Down
+Alchemist,STRENGTH,75,200,Chemical Rage
+Invoker,INTELLIGENCE,75,200,Invoke
+Silencer,INTELLIGENCE,75,200,Global Silence
+Outworld Devourer,INTELLIGENCE,75,200,Sanity's Eclipse
+Lycan,STRENGTH,75,200,Shapeshift
+Brewmaster,UNIVERSAL,75,200,Primal Split
+Shadow Demon,INTELLIGENCE,75,200,Demonic Purge
+Lone Druid,AGILITY,75,200,True Form
+Chaos Knight,STRENGTH,75,200,Phantasm
+Meepo,AGILITY,75,200,Divided We Stand
+Treant Protector,STRENGTH,75,200,Overgrowth
+Ogre Magi,STRENGTH,75,200,Multicast
+Undying,STRENGTH,75,200,Flesh Golem
+Rubick,INTELLIGENCE,75,200,Spell Steal
+Disruptor,INTELLIGENCE,75,200,Static Storm
+Nyx Assassin,UNIVERSAL,75,200,Vendetta
+Naga Siren,AGILITY,75,200,Song of the Siren
+Keeper of the Light,INTELLIGENCE,75,200,Spirit Form
+Io,UNIVERSAL,75,200,Relocate
+Visage,UNIVERSAL,75,200,Summon Familiars
+Slark,AGILITY,75,200,Shadow Dance
+Medusa,AGILITY,75,200,Stone Gaze
+Troll Warlord,AGILITY,75,200,Battle Trance
+Centaur Warrunner,STRENGTH,75,200,Stampede
+Magnus,UNIVERSAL,75,200,Reverse Polarity
+Timbersaw,STRENGTH,75,200,Timber Chain
+Bristleback,STRENGTH,75,200,Bristleback
+Tusk,STRENGTH,75,200,Launch Snowball
+Skywrath Mage,INTELLIGENCE,75,200,Mystic Flare
+Abaddon,UNIVERSAL,75,200,Borrowed Time
+Elder Titan,STRENGTH,75,200,Earth Splitter
+Legion Commander,STRENGTH,75,200,Duel
+Techies,UNIVERSAL,75,200,Blast Off!
+Ember Spirit,AGILITY,75,200,Fire Remnant
+Earth Spirit,STRENGTH,75,200,Magnetize
+Underlord,STRENGTH,75,200,Fiend's Gate
+Terrorblade,AGILITY,75,200,Metamorphosis
+Phoenix,STRENGTH,75,200,Supernova
+Oracle,INTELLIGENCE,75,200,False Promise
+Winter Wyvern,INTELLIGENCE,75,200,Winter's Curse
+Arc Warden,UNIVERSAL,75,200,Tempest Double
+Monkey King,AGILITY,75,200,Wukong's Command
+Dark Willow,INTELLIGENCE,75,200,Terrorize
+Pangolier,UNIVERSAL,75,200,Rolling Thunder
+Grimstroke,INTELLIGENCE,75,200,Ink Swell
+Hoodwink,AGILITY,75,200,Sharpshooter
+Void Spirit,UNIVERSAL,75,200,Astral Step
+Snapfire,UNIVERSAL,75,200,Mortimer Kisses
+Mars,STRENGTH,75,200,Arena Of Blood
+Ring Master,INTELLIGENCE,75,200,Whiplash
+Dawnbreaker,STRENGTH,75,200,Solar Guardian
+Marci,UNIVERSAL,75,200,Unleash
+Primal Beast,STRENGTH,75,200,Pulverize
+Muerta,INTELLIGENCE,75,200,Pierce the Veil
+Kez,AGILITY,75,200,Finale

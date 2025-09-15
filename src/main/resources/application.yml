@@ -1,0 +1,35 @@
+buildVersion: '@pom.version@'
+apiVersion: v.1.0.0
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: ${JWT_SET_URI}
+          issuer-uri: ${ISSUER_URI}
+
+  datasource:
+    url: ${DB_URL}
+    username: ${DB_USER}
+    password: ${DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    properties:
+      hibernate:
+        default-schema: dota
+    hibernate:
+      ddl-auto: validate
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    open-in-view: false
+    generate-ddl: false
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.yml
+    default-schema: ${spring.jpa.properties.hibernate.default-schema}
+    enabled: true
+
+  cache:
+    ttl: 2
+

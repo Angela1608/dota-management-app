@@ -1,0 +1,178 @@
+name,bonus_strength,bonus_agility,bonus_intelligence,description
+Blink Dagger,0,0,0,Increases movement speed and allows a short blink.
+Overwhelming Blink,25,0,0,Grants 25 strength for enhanced durability.
+Swift Blink,0,25,0,Grants 25 agility for increased attack speed.
+Arcane Blink,0,0,10,Grants 10 intelligence for mana pool boost.
+Arcane Blink Recipe,0,0,0,Recipe to craft Arcane Blink.
+Swift Blink Recipe,0,0,0,Recipe to craft Swift Blink.
+Overwhelming Blink Recipe,0,0,0,Recipe to craft Overwhelming Blink.
+Blades of Attack,0,0,0,Increases base damage.
+Broadsword,0,0,0,Provides moderate damage boost.
+Chainmail,0,0,0,Increases armor.
+Claymore,0,0,0,Enhances attack damage.
+Helm of Iron Will,0,0,0,Boosts armor and regeneration.
+Javelin,0,0,0,Adds chance for bonus damage.
+Mithril Hammer,0,0,0,Increases base damage.
+Platemail,0,0,0,Provides high armor.
+Quarterstaff,0,0,0,Boosts attack speed.
+Quelling Blade,0,0,0,Allows tree cutting and damage bonus.
+Faerie Fire,0,0,0,Grants lifesteal and damage.
+Infused Raindrops,0,0,0,Provides mana regeneration.
+Wind Lace,0,0,0,Increases movement speed.
+Ring of Protection,0,0,0,Adds armor.
+Stout Shield,0,0,0,Reduces damage taken.
+Moon Shard,0,0,0,Increases attack speed permanently.
+Gauntlets of Strength,3,0,0,Grants 3 strength.
+Slippers of Agility,0,3,0,Grants 3 agility.
+Mantle of Intelligence,0,0,3,Grants 3 intelligence.
+Iron Branch,1,1,1,Grants small bonuses to all attributes.
+Belt of Strength,6,0,0,Grants 6 strength.
+Band of Elvenskin,0,6,0,Grants 6 agility.
+Robe of the Magi,0,0,6,Grants 6 intelligence.
+Circlet,2,2,2,Grants small bonuses to all attributes.
+Crown,0,0,0,Enhances mana regeneration.
+Diadem,0,0,0,Boosts intelligence slightly.
+Ogre Axe,10,0,0,Grants 10 strength.
+Blade of Alacrity,0,10,0,Grants 10 agility.
+Staff of Wizardry,0,0,10,Grants 10 intelligence.
+Ultimate Orb,0,0,10,Grants 10 to all attributes.
+Gloves of Haste,0,0,0,Increases attack speed.
+Blitz Knuckles,0,0,0,Enhances attack capabilities.
+Morbid Mask,0,0,0,Provides lifesteal.
+Voodoo Mask,0,0,0,Grants magic resistance.
+Ring of Regen,0,0,0,Increases health regeneration.
+Sage's Mask,0,0,0,Boosts mana regeneration.
+Boots of Speed,0,0,0,Increases movement speed.
+Gem of True Sight,0,0,0,Reveals invisible units.
+Cloak,0,0,0,Adds magic resistance.
+Talisman of Evasion,0,0,0,Increases evasion chance.
+Cheese,0,0,0,Restores health and mana.
+Magic Stick,0,0,0,Absorbs spell damage.
+Magic Wand Recipe,0,0,0,Recipe to craft Magic Wand.
+Magic Wand,0,0,0,Enhanced Magic Stick.
+Ghost Scepter,0,0,0,Turns user ethereal.
+Clarity,0,0,0,Restores mana over time.
+Enchanted Mango,0,0,0,Restores mana instantly.
+Healing Lotus,0,0,0,Restores health.
+Great Healing Lotus,0,0,0,Enhanced healing.
+Greater Healing Lotus,0,0,0,Further enhanced healing.
+Blood Grenade,0,0,0,Deals area damage.
+Block of Cheese,0,0,0,Large health restoration.
+Healing Salve,0,0,0,Restores health over time.
+Dust of Appearance,0,0,0,Reveals invisible units.
+Bottle,0,0,0,Stores runes and restores resources.
+Observer Ward,0,0,0,Provides vision.
+Sentry Ward,0,0,0,Detects invisible units.
+Observer and Sentry Wards,0,0,0,Combined ward pack.
+Tango,0,0,0,Restores health via trees.
+Tango (Shared),0,0,0,Shared Tango.
+Animal Courier,0,0,0,Delivers items.
+Flying Courier,0,0,0,Enhanced courier.
+Town Portal Scroll,0,0,0,Teleports to base.
+Boots of Travel Recipe,0,0,0,Recipe to craft Boots of Travel.
+Boots of Travel,0,0,0,Grants global teleport.
+Boots of Travel 2,0,0,0,Upgraded Boots of Travel.
+Phase Boots,0,0,0,Increases movement and damage.
+Demon Edge,0,0,0,Boosts critical strike chance.
+Eaglesong,0,25,0,Grants 25 agility.
+Reaver,25,0,0,Grants 25 strength.
+Sacred Relic,0,0,0,Used to craft high-tier items.
+Hyperstone,0,0,0,Increases attack speed.
+Ring of Health,0,0,0,Boosts health regeneration.
+Ring of Tarrasque,0,0,0,Enhances durability.
+Void Stone,0,0,0,Increases mana pool.
+Tiara of Selemene,0,0,0,Boosts attributes slightly.
+Mystic Staff,0,0,0,Increases intelligence.
+Energy Booster,0,0,0,Boosts mana pool.
+Point Booster,0,0,0,Increases mana and health.
+Vitality Booster,0,0,0,Boosts health.
+Fluffy Hat,0,0,0,Enhances magic resistance.
+Power Treads,0,0,0,Switches attribute bonuses.
+recipe_samurai_tabi,0,0,0,Recipe for Samurai Tabi.
+samurai_tabi,0,0,0,Grants armor and strength.
+recipe_hermes_sandals,0,0,0,Recipe for Hermes Sandals.
+hermes_sandals,0,30,0,Grants 30 agility.
+recipe_witches_switch,0,0,0,Recipe for Witch's Switch.
+witches_switch,0,0,0,Grants magic resistance.
+recipe_lunar_crest,0,0,0,Recipe for Lunar Crest.
+Lunar Crest,0,0,0,Enhances night vision.
+Phylactery Recipe,0,0,0,Recipe for Phylactery.
+Phylactery,0,0,0,Boosts intelligence.
+Khanda Recipe,0,0,0,Recipe for Khanda.
+Khanda,0,0,0,Increases damage.
+grandmasters_glaive,10,0,0,Grants 10 strength.
+Hand of Midas Recipe,0,0,0,Recipe for Hand of Midas.
+Hand of Midas,0,0,0,Grants gold and experience.
+aetherial_halo,25,25,0,Grants 25 to strength and agility.
+Oblivion Staff,0,0,0,Boosts intelligence.
+Witch Blade Recipe,0,0,0,Recipe for Witch Blade.
+Witch Blade,0,0,0,Enhances magic damage.
+Perseverance,0,0,0,Increases health and mana regen.
+Cornucopia,0,0,0,Boosts attributes slightly.
+Poor Man's Shield,0,0,0,Reduces damage taken.
+satchel,0,0,0,Carries consumables.
+Bracer Recipe,0,0,0,Recipe for Bracer.
+Bracer,5,2,0,Grants 5 strength and 2 agility.
+Wraith Band Recipe,0,0,0,Recipe for Wraith Band.
+Wraith Band,2,5,0,Grants 2 strength and 5 agility.
+Null Talisman Recipe,0,0,0,Recipe for Null Talisman.
+Null Talisman,2,2,0,Grants 2 to all attributes.
+Mekansm Recipe,0,0,0,Recipe for Mekansm.
+Mekansm,0,0,0,Heals allies and adds armor.
+Vladmir's Offering,0,0,0,Grants aura bonuses.
+recipe_wraith_pact,0,0,0,Recipe for Wraith Pact.
+Wraith Pact,0,0,0,Enhances wraith abilities.
+Buckler Recipe,0,0,0,Recipe for Buckler.
+Buckler,0,0,0,Adds armor to allies.
+Ring of Basilius Recipe,0,0,0,Recipe for Ring of Basilius.
+Ring of Basilius,0,0,0,Grants mana regeneration.
+Holy Locket Recipe,0,0,0,Recipe for Holy Locket.
+Holy Locket,0,0,0,Boosts healing.
+Pipe of Insight Recipe,0,0,0,Recipe for Pipe of Insight.
+Pipe of Insight,0,0,0,Provides magic resistance.
+Urn of Shadows Recipe,0,0,0,Recipe for Urn of Shadows.
+Urn of Shadows,0,0,0,Restores health and mana.
+Headdress Recipe,0,0,0,Recipe for Headdress.
+Headdress,0,0,0,Regenerates health.
+Scythe of Vyse Recipe,0,0,0,Recipe for Scythe of Vyse.
+Scythe of Vyse,0,0,0,Hexes enemies.
+caster_rapier,0,0,0,Increases cast range.
+Orchid Malevolence Recipe,0,0,0,Recipe for Orchid Malevolence.
+Orchid Malevolence,0,0,0,Silences enemies.
+Bloodthorn Recipe,0,0,0,Recipe for Bloodthorn.
+Bloodthorn,0,0,0,Enhanced silence.
+Echo Sabre,15,0,0,Grants 15 strength and double attack.
+Eul's Scepter Recipe,0,0,0,Recipe for Eul's Scepter.
+Eul's Scepter of Divinity,0,0,0,Cyclone ability.
+Wind Waker Recipe,0,0,0,Recipe for Wind Waker.
+Wind Waker,0,0,0,Controls winds.
+Aether Lens Recipe,0,0,0,Recipe for Aether Lens.
+Aether Lens,0,0,0,Increases cast range.
+Force Staff Recipe,0,0,0,Recipe for Force Staff.
+Force Staff,0,0,0,Pushes units.
+Hurricane Pike Recipe,0,0,0,Recipe for Hurricane Pike.
+Hurricane Pike,15,20,0,Grants 15 strength and 20 agility.
+Dagon Recipe,0,0,0,Recipe for Dagon.
+Dagon,0,0,0,Deals burst damage.
+Dagon,0,0,0,Upgraded Dagon.
+Dagon,0,0,0,Further upgraded Dagon.
+Dagon,0,0,0,Even more upgraded.
+Dagon,0,0,0,Max upgraded Dagon.
+Necronomicon Recipe,0,0,0,Recipe for Necronomicon.
+Necronomicon,6,0,0,Level 1 Necronomicon.
+Necronomicon,12,0,0,Level 2 Necronomicon.
+Necronomicon,18,0,0,Level 3 Necronomicon.
+Aghanim's Scepter,0,0,0,Enhances ultimate abilities.
+Aghanim's Blessing Recipe,0,0,0,Recipe for Aghanim's Blessing.
+Aghanim's Blessing,0,0,0,Boosts hero power.
+Aghanim's Blessing - Roshan,0,0,0,Roshan-specific blessing.
+Aghanim's Shard,0,0,0,Grants additional ability.
+Aghanim's Shard - Consumable,0,0,0,Consumable shard.
+Refresher Orb Recipe,0,0,0,Recipe for Refresher Orb.
+Refresher Orb,0,0,0,Resets cooldowns.
+Assault Cuirass Recipe,0,0,0,Recipe for Assault Cuirass.
+Assault Cuirass,0,0,0,Increases attack speed and armor.
+Heart of Tarrasque Recipe,0,0,0,Recipe for Heart of Tarrasque.
+Heart of Tarrasque,40,0,0,Grants 40 strength.
+Black King Bar Recipe,0,0,0,Recipe for Black King Bar.
+Black King Bar,10,0,0,Grants

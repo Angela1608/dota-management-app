@@ -1,0 +1,73 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Angela Matiiva
+      changes:
+        - createTable:
+            tableName: items
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(100)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: bonus_strength
+                  type: INT
+                  constraints:
+                    nullable: false
+                    checkConstraint: bonus_strength >= 0
+              - column:
+                  name: bonus_agility
+                  type: INT
+                  constraints:
+                    nullable: false
+                    checkConstraint: bonus_agility >= 0
+              - column:
+                  name: bonus_intelligence
+                  type: INT
+                  constraints:
+                    nullable: false
+                    checkConstraint: bonus_intelligence >= 0
+              - column:
+                  name: description
+                  type: VARCHAR(255)
+                  constraints:
+                    nullable: false
+  - changeSet:
+      id: 2
+      author: Angela Matiiva
+      changes:
+        - loadData:
+            file: db/changelog/items.csv
+            tableName: items
+            separator: ","
+            encoding: UTF-8
+            columns:
+              - column:
+                  header: name
+                  name: name
+                  type: STRING
+              - column:
+                  header: bonus_strength
+                  name: bonus_strength
+                  type: INTEGER
+              - column:
+                  header: bonus_agility
+                  name: bonus_agility
+                  type: INTEGER
+              - column:
+                  header: bonus_intelligence
+                  name: bonus_intelligence
+                  type: INTEGER
+              - column:
+                  header: description
+                  name: description
+                  type: STRING

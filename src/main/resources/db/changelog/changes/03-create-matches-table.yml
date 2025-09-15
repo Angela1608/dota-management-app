@@ -1,0 +1,15 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Angela
+      changes:
+        - createTable:
+            tableName: matches
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false

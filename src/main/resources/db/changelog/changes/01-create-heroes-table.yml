@@ -1,0 +1,80 @@
+databaseChangeLog:
+  - changeSet:
+      id: 1
+      author: Angela
+      changes:
+        - createTable:
+            tableName: heroes
+            columns:
+              - column:
+                  name: id
+                  type: BIGINT
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(100)
+                  constraints:
+                    nullable: false
+                    unique: true
+              - column:
+                  name: primary_attribute
+                  type: VARCHAR(20)
+                  constraints:
+                    nullable: false
+                    checkConstraint: primary_attribute IN ('STRENGTH', 'AGILITY', 'INTELLIGENCE')
+              - column:
+                  name: base_mana
+                  type: INT
+                  constraints:
+                    nullable: false
+                    checkConstraint: base_mana >= 0
+              - column:
+                  name: base_health
+                  type: INT
+                  constraints:
+                    nullable: false
+                    checkConstraint: base_health >= 0
+              - column:
+                  name: ultimate_ability
+                  type: VARCHAR(100)
+                  constraints:
+                    nullable: false
+        - createIndex:
+            indexName: idx_hero_primary_attribute
+            tableName: heroes
+            columns:
+              - column:
+                  name: primary_attribute
+  - changeSet:
+      id: 2
+      author: Angela
+      changes:
+        - loadData:
+            file: db/changelog/heroes_with_ults.csv
+            tableName: heroes
+            separator: ","
+            encoding: UTF-8
+            columns:
+              - column:
+                  header: name
+                  name: name
+                  type: STRING
+              - column:
+                  header: primary_attribute
+                  name: primary_attribute
+                  type: STRING
+              - column:
+                  header: base_mana
+                  name: base_mana
+                  type: INTEGER
+              - column:
+                  header: base_health
+                  name: base_health
+                  type: INTEGER
+              - column:
+                  header: ultimate_ability
+                  name: ultimate_ability
+                  type: STRING

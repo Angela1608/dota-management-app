@@ -1,0 +1,15 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/postgres?currentSchema=dota
+    username: postgres
+    password: postgres
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: http://localhost:8090/auth/realms/master/protocol/openid-connect/certs
+          issuer-uri: http://localhost:8090/auth/realms/master
